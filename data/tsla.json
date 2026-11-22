@@ -3,7 +3,7 @@
   "currency": "USD",
   "source": "Yahoo Finance chart",
   "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/TSLA?range=3mo&interval=1d&includePrePost=false",
-  "fetched_at": "2026-11-22T14:29:17+08:00",
+  "fetched_at": "2026-11-23T07:37:57+08:00",
   "price": 345.82,
   "previous_close": 374.41,
   "change": -28.59,
@@ -275,5 +275,5 @@
   ],
   "day_high": 373.88,
   "day_low": 344.33,
-  "volume": 45986617
+  "volume": 46244292
 }
