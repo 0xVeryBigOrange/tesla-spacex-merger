@@ -1,0 +1,188 @@
+{
+  "as_of": "2026-11-22",
+  "updated_at": "2026-11-22T14:00:00+08:00",
+  "items": [
+    {
+      "date": "2026-11-20",
+      "status": "confirmed",
+      "title": {
+        "zh": "TSLA 收于 345.82 美元，单日跌 7.64%，同期纳指大幅回调",
+        "en": "TSLA closed at $345.82, down 7.64% on the day, alongside a sharp Nasdaq selloff"
+      },
+      "summary": {
+        "zh": "美国周五（11月20日）TSLA 收盘 345.82 美元，较前收 374.41 美元下跌 28.59 美元（7.64%）；当日开盘 370.43、最高 373.88、最低 344.33，成交量约 4451 万股。多家报道将跌幅主要归因于人工智能与成长股的大范围抛售（Anthropic 上市后的获利了结等），而非新的合并官方公告。同日 SPCX 收盘约 127.79 美元，跌 7.69%，市值约 1.74 万亿美元。美国市场此后进入周末，截至调研时（2026-11-22，亚洲/新加坡）尚无更新的正式收盘价。",
+        "en": "On Friday 20 November, TSLA closed at $345.82, down $28.59 (7.64%) from the previous close of $374.41. It opened at $370.43, traded as high as $373.88 and as low as $344.33, on volume of about 44.51 million shares. Several reports attributed the drop mainly to a broad selloff in AI and growth stocks (including repositioning after Anthropic's listing), not to a new official merger document. The same day SPCX closed near $127.79, down 7.69%, with a market value near $1.74 trillion. US markets then entered the weekend; as of this research (22 November 2026, Asia/Singapore) there was no newer official close."
+      },
+      "source": "Exa market data; StockAnalysis; Benzinga; CNBC",
+      "url": "https://exa.ai/library/markets/stocks/TSLA"
+    },
+    {
+      "date": "2026-11-20",
+      "status": "confirmed",
+      "title": {
+        "zh": "汇丰将 TSLA 评级上调至 Hold，目标价自 157 美元大幅上调至 359 美元，并把潜在 SpaceX 收购写入估值",
+        "en": "HSBC upgrades TSLA to Hold and lifts its target from $157 to $359, writing a possible SpaceX bid into the valuation"
+      },
+      "summary": {
+        "zh": "汇丰分析师 Michael Tyndall 将特斯拉由 Reduce 上调至 Hold，目标价从 157 美元调至 359 美元。新模型对两种情景等权：若 SpaceX 以特斯拉过去 30 日均价溢价 33% 收购，估值为每股 507 美元；若交易不成，按 DCF 的独立估值为每股 212 美元（此前 193 美元）。该目标价在发布时仍低于前一交易日收盘 374.41 美元。这是卖方研究意见，不是交易已敲定的证据。",
+        "en": "HSBC analyst Michael Tyndall upgraded Tesla from Reduce to Hold and moved the price target from $157 to $359. The new model equal-weights two outcomes: if SpaceX bought Tesla at a 33% premium to the 30-day average price, $507 a share; if the deal did not happen, a standalone DCF of $212 a share (previously $193). When it was published, that target was still below the prior session's close of $374.41. This is a sell-side opinion, not evidence that a transaction has been agreed."
+      },
+      "source": "TipRanks; Benzinga; Investing.com",
+      "url": "https://www.tipranks.com/news/hsbc-upgrades-tesla-stock-to-hold-and-raises-price-target-to-359-heres-why"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "confirmed",
+      "title": {
+        "zh": "马斯克在《纽约时报》DealBook 峰会称特斯拉与 SpaceX「大概会更好在一起」，但合并本身不应触发其特斯拉薪酬",
+        "en": "At the NYT DealBook Summit, Musk says Tesla and SpaceX would \"probably\" be better together, but a merger should not trigger his Tesla pay"
+      },
+      "summary": {
+        "zh": "马斯克表示，五年前他看不到两家公司合并的理由；如今在人工智能、机器人和芯片设计上重叠增多，「你不需要它们在一起，但它们在一起会更好吗？大概会。」他强调必须经股东表决，且对自己在 SpaceX 的投票也须对其他股东负责。被问及合并是否应触发其特斯拉业绩导向薪酬时，他说不应仅因合并而获得奖励，应坚持协议原意。Yahoo/StockTwits 称当日 TSLA 涨约 1%、SPCX 涨约 1.3%。收盘价：TSLA 11月18日 383.72 美元，11月19日 374.41 美元。",
+        "en": "Musk said that five years ago he saw no reason to combine the companies, and that the overlap in artificial intelligence, robotics and chip design is now much larger. \"You don't need them to be together, but would they be better together? Probably yes.\" He stressed that shareholders have to vote, and that his own SpaceX vote has to respect the other shareholders. Asked whether a merger should trigger his performance-based Tesla pay, he said he should not be rewarded merely for doing a merger, and that the original agreement should be honored. Yahoo Finance / StockTwits said TSLA rose about 1% and SPCX about 1.3% that day. Closes: TSLA $383.72 on 18 November and $374.41 on 19 November."
+      },
+      "source": "DealBook 2026 transcript (Singju Post / Elon Musk Archive); Yahoo Finance/StockTwits; Benzinga; CNBC",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-better-together-musk-015619735.html"
+    },
+    {
+      "date": "2026-11-12",
+      "status": "rumor",
+      "title": {
+        "zh": "彭博社援引知情人士称合并谈判有进展，最早或于 12 月宣布，也可能推迟到 2027 年初",
+        "en": "Bloomberg, citing people familiar, says merger talks are progressing; an announcement could come as soon as December, or slip into early 2027"
+      },
+      "summary": {
+        "zh": "彭博报道（路透等转述）称，SpaceX 与特斯拉的合并谈判正在推进，董事会与顾问正在敲定条款与合并后治理；知情人士称公告可能最早出现在 12 月，双方也讨论过推迟到 2027 年初的情形。报道还提到交易或为全股票、由 SpaceX 吸收特斯拉，换股比例尚未敲定，并需处理特斯拉中国业务与 SpaceX 美国防务合同的隔离问题。特斯拉与 SpaceX 当时未能立即置评。路透援引彭博称，截至前一收盘 SpaceX 市值约 1.90 万亿美元、特斯拉约 1.55 万亿美元。TSLA 当日收于 397.45 美元。这是匿名消息源报道，不是公司正式宣布成交。",
+        "en": "Bloomberg, as carried by Reuters and others, reported that SpaceX and Tesla merger talks were moving forward and that the boards and advisers were working through terms and post-merger governance. People familiar with the matter said an announcement could come as early as December, and that delaying into early 2027 had also been discussed. The reporting also said the deal might be all-stock, with SpaceX absorbing Tesla; the exchange ratio was not set, and Tesla's China operations would have to be walled off from SpaceX's US defense contracts. Tesla and SpaceX did not immediately comment. Reuters, citing Bloomberg, put SpaceX near $1.90 trillion and Tesla near $1.55 trillion as of the previous close. TSLA closed that day at $397.45. This is anonymously sourced reporting, not a company announcement that a deal is done."
+      },
+      "source": "Bloomberg (via Bloomberg Law / Bloomberg Línea); Reuters (via Investing.com, U.S. News)",
+      "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/spacex-and-tesla-talks-on-record-merger-are-said-to-progress"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "confirmed",
+      "title": {
+        "zh": "特斯拉 Q3 财报电话会：马斯克称再谈合并像「在雷区踢踏舞」；盘后股价回落",
+        "en": "Tesla Q3 call: Musk says discussing the merger further is like \"tap-dancing through a minefield\"; the stock fades after hours"
+      },
+      "summary": {
+        "zh": "特斯拉公布 2026 年三季报后，马斯克表示对合并前景没有更多可补充的内容，并戏称自己像在「雷区踢踏舞」（tap-dancing through a minefield），同时称把合并说成必然是「言过其实」。多家报道指出，尽管调整后业绩与营收有所超出预期，投资者仍关注 GAAP 利润下滑、汽车业务走弱与资本开支指引，盘后 TSLA 约跌 3%。当日收盘 386.47 美元，次日收于 374.58 美元。",
+        "en": "After Tesla published 2026 third-quarter results, Musk said he had nothing further to add on the merger and joked that he felt he was \"tap-dancing through a minefield,\" while also calling it an overstatement to treat a merger as inevitable. Several reports said that, although adjusted results and revenue were somewhat ahead of expectations, investors were still focused on weaker GAAP profit, the auto business and capital-spending guidance, and TSLA fell about 3% after hours. The stock closed at $386.47 that day and $374.58 the next day."
+      },
+      "source": "BBC; AP; CNBC; Yahoo Finance; Investing.com; Exa price series",
+      "url": "https://www.bbc.com/news/articles/cr93z1e87e0do"
+    },
+    {
+      "date": "2026-10-21",
+      "status": "confirmed",
+      "title": {
+        "zh": "摩根大通称中国监管或为合并最大障碍，并讨论「圈围」特斯拉中国业务的结构性方案",
+        "en": "JPMorgan says Chinese approval may be the biggest obstacle, and discusses ring-fencing Tesla's China business"
+      },
+      "summary": {
+        "zh": "分析师 Rajat Gupta 在马斯克确认成立特别委员会后发布研究报告，认为战略逻辑「仍然自洽」，但中国审批可能比特斯拉股东表决更难：中国约占特斯拉收入约 20%，且对 EBIT 与自由现金流贡献更高；SpaceX 深度绑定美国防务合同，Starlink 从未获准在中国运营。银行提出一种类似「镜像版 TikTok 安排」的设想：将特斯拉中国业务圈围或把控股权转让给中国财团，特斯拉通过品牌、FSD 等许可继续获得收入。这是卖方分析与假设性方案，并非公司已公布的交易结构。Gupta 还提到全股票交易、约 30%–35% 溢价、以及马斯克 2026 年 6 月行使 2018 年奖励后将特斯拉投票权提升至约 20%。",
+        "en": "Analyst Rajat Gupta, writing after Musk confirmed the special committees, said the strategic logic was \"still coherent,\" but that Chinese approval could be harder than a Tesla shareholder vote: China is about 20% of Tesla revenue and contributes more of EBIT and free cash flow, while SpaceX is tied closely to US defense contracts and Starlink has never been licensed in China. The bank floated something like a \"mirror-image TikTok arrangement\": ring-fence Tesla's China business, or transfer control to a Chinese consortium, with Tesla still earning license fees for the brand, FSD and similar. That is a sell-side hypothesis, not a structure the company has published. Gupta also mentioned an all-stock deal, a premium of about 30% to 35%, and Musk raising his Tesla voting power to about 20% after exercising the 2018 award in June 2026."
+      },
+      "source": "JPMorgan note via Investing.com; Benzinga; Reuters analysis",
+      "url": "https://www.investing.com/news/stock-market-news/this-is-the-singlebiggest-obstacle-to-a-spacextesla-merger-jpmorgan-4962495"
+    },
+    {
+      "date": "2026-10-20",
+      "status": "confirmed",
+      "title": {
+        "zh": "马斯克在 SpaceX 三季报电话会上确认：两家公司已成立独立董事特别委员会探讨合并，但条款尚未达成、不保证会达成",
+        "en": "On the SpaceX Q3 call, Musk confirms both companies have formed independent-director special committees to explore a merger; no terms are agreed, and none are guaranteed"
+      },
+      "summary": {
+        "zh": "这是迄今最重要的公司侧确认。马斯克称自己是「利益冲突方」，不能参加委员会讨论，比喻为「一场奇怪的歌舞伎」。他支持合并（「你问我觉得这是不是好主意？是的」），理由包括超智能软件、芯片设计、Terafab、机器人、Starmind 星座的入轨运力与连接能力。他强调特斯拉侧需获得全部已发行股份（而非仅投票股份）至少 50% 同意，门槛「相当高」。BBC 称其评论后 SpaceX 盘后涨约 8%，特斯拉涨约 2%。WSJ、The Verge、路透、TechCrunch、AP 均报道。TSLA 当日收盘 373.71 美元。合并本身仍未宣布。",
+        "en": "This is the most important confirmation from the companies so far. Musk said he was a conflicted party and could not take part in the committee discussions, likening it to \"a strange kabuki.\" He supports a merger (\"You ask me if I think it's a good idea? Yes\"), citing superintelligence software, chip design, Terafab, robotics, and the Starmind constellation's mass-to-orbit capacity and connectivity. He stressed that the Tesla side needs approval from at least 50% of all shares outstanding, not merely the shares that vote, and called that bar \"pretty high.\" The BBC said SpaceX rose about 8% after hours on the comments and Tesla about 2%. The WSJ, The Verge, Reuters, TechCrunch and the AP all reported the remarks. TSLA's regular-session close that day was $373.71. The merger itself was still not announced."
+      },
+      "source": "SpaceX Q3 2026 earnings call, reported by BBC, WSJ, The Verge, Reuters, TechCrunch, AP",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o"
+    },
+    {
+      "date": "2026-10-15",
+      "status": "rumor",
+      "title": {
+        "zh": "巴克莱称合并公告有可能出现在特斯拉 12 月股东大会之前，并认为更可能由 SpaceX 以换股收购特斯拉",
+        "en": "Barclays says an announcement could come before Tesla's December shareholder meeting, and that a stock deal with SpaceX as buyer is more likely"
+      },
+      "summary": {
+        "zh": "分析师 Dan Levy 将合并视为日益成为「共识预期」，一种情形是在特斯拉 2026 年年会前宣布（适用公司法下年会须在 12 月 6 日前召开；公司后续公布年会为 12 月 3 日）。他警告若在 10 月底或 11 月初宣布，可能反而增加在年会上通过的难度；若与年会分开，交易也可能在未来 6–12 个月宣布。巴克莱预计全股票、SpaceX 为收购方，并估算按当时约 2.1 万亿/1.5 万亿美元市值，马斯克在合并后或拥有约 37% 经济权益、约 56% 投票权。这是卖方推演，不是已公布方案。",
+        "en": "Analyst Dan Levy described a merger as increasingly a \"consensus expectation.\" One path was an announcement before Tesla's 2026 annual meeting (under the applicable company law the meeting must be held by 6 December; the company later scheduled it for 3 December). He warned that an announcement in late October or early November could actually make passage at the meeting harder; if separated from the meeting, a deal might also be announced over the following 6 to 12 months. Barclays expected an all-stock transaction with SpaceX as the acquirer, and estimated that on market values then of about $2.1 trillion and $1.5 trillion, Musk could hold about 37% of the economics and about 56% of the vote afterwards. This is a sell-side scenario, not a published proposal."
+      },
+      "source": "Barclays via Investing.com; Stocktwits; Quartz",
+      "url": "https://www.investing.com/news/stock-market-news/teslaspacex-merger-could-be-announced-before-december-barclays-says-4951979"
+    },
+    {
+      "date": "2026-07-08",
+      "status": "confirmed",
+      "title": {
+        "zh": "摩根大通称 SpaceX–特斯拉合并在纸面上「战略自洽」，同时列出监管与治理障碍",
+        "en": "JPMorgan calls a SpaceX–Tesla merger \"strategically coherent\" on paper, and lists regulatory and governance hurdles"
+      },
+      "summary": {
+        "zh": "在 IPO 后市场传闻升温之际，Rajat Gupta 写道，合并可让马斯克统一愿景、使命与工程领导，人工智能是「战略胶水」。他指出两项可能的催化剂：SpaceX 上市提供高估值收购货币；马斯克将特斯拉投票权提升至约 20%。同时警告多司法管辖区监管（尤其特斯拉有大型制造业务的市场）、投票权不对称，以及市场可能认为这是 SpaceX 主导收购而非对等合并。当时摩根大通对 SPCX 为增持、对 TSLA 为中性。",
+        "en": "As market rumor picked up after the IPO, Rajat Gupta wrote that a merger could let Musk align vision, mission and engineering leadership, with artificial intelligence as the \"strategic glue.\" He named two possible catalysts: a SpaceX listing that provided a highly valued acquisition currency, and Musk lifting his Tesla vote to about 20%. He also warned about regulation across multiple jurisdictions (especially markets where Tesla has large manufacturing), unequal voting power, and the chance the market would treat it as a SpaceX-led acquisition rather than a merger of equals. At the time JPMorgan was overweight SPCX and neutral on TSLA."
+      },
+      "source": "CNBC reporting a JPMorgan client note",
+      "url": "https://www.cnbc.com/2026/07/08/jpmorgan-calls-the-possibility-of-a-spacex-tesla-merger-strategically-coherent-.html"
+    },
+    {
+      "date": "2026-06-12",
+      "status": "confirmed",
+      "title": {
+        "zh": "SpaceX 以代码 SPCX 在纳斯达克上市；COO Gwynne Shotwell 公开称合并「可能让马斯克的日子好过一点」",
+        "en": "SpaceX lists on Nasdaq as SPCX; COO Gwynne Shotwell says a Tesla deal \"might make Elon's life a little easier\""
+      },
+      "summary": {
+        "zh": "SpaceX 于 6 月 11 日公布 IPO 定价：5.55555555 亿股 A 类普通股、每股 135 美元，计划 6 月 12 日在 Nasdaq Global Select Market 与 Nasdaq Texas 以代码 SPCX 开盘。CNBC 等报道首日开盘约 150 美元、收盘约 160.95 美元，涨约 19%，估值超过 2 万亿美元，募资约 750 亿美元。同日 SpaceX 总裁兼 COO Shotwell 对 CNBC 表示，与特斯拉的交易「可能让埃隆的日子好过一点」，但强调公司当时专注现有业务、并非立即合并。IPO 与公开表态属已确认事实；合并仍未发生。",
+        "en": "On 11 June SpaceX announced IPO pricing: 555,555,555 Class A common shares at $135 each, to open on 12 June on the Nasdaq Global Select Market and Nasdaq Texas under the ticker SPCX. CNBC and others reported a first-day open near $150 and a close near $160.95, up about 19%, a valuation above $2 trillion, and about $75 billion raised. The same day, president and COO Gwynne Shotwell told CNBC that a transaction with Tesla \"might make Elon's life a little easier,\" while stressing that the company was focused on the existing business and not on merging immediately. The IPO and the public comment are confirmed facts; a merger still had not happened."
+      },
+      "source": "SpaceX IR; Nasdaq; CNBC; Reuters",
+      "url": "https://ir.spacex.com/updates/releases-details/2026/Space-Exploration-Technologies-Corp--Announces-Pricing-of-Initial-Public-Offering/default.aspx"
+    },
+    {
+      "date": "2026-05-26",
+      "status": "rumor",
+      "title": {
+        "zh": "CNBC 援引知情人士：马斯克已与同事讨论将特斯拉与 SpaceX 合并",
+        "en": "CNBC, citing people familiar: Musk has discussed combining Tesla and SpaceX with colleagues"
+      },
+      "summary": {
+        "zh": "在 SpaceX IPO 临近时，CNBC 报道称马斯克已与同事讨论合并两家公司的可能性；报道还称特斯拉员工内部对此已有预期和讨论。这是匿名消息源的市场传闻，当时两家公司并未宣布成立特别委员会或达成条款。",
+        "en": "As the SpaceX IPO drew near, CNBC reported that Musk had discussed with colleagues the possibility of combining the two companies. The report also said people inside Tesla had already been anticipating and discussing it. This was market chatter from anonymous sources. At the time neither company had announced special committees or agreed any terms."
+      },
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/26/spacex-tesla-merger-chatter-reignites-as-musk-rocket-company-nears-ipo.html"
+    },
+    {
+      "date": "2026-03-21",
+      "status": "confirmed",
+      "title": {
+        "zh": "马斯克宣布 Terafab：由 SpaceX 与特斯拉联合推进的超大规模芯片项目",
+        "en": "Musk announces Terafab, a very large chip project pursued jointly by SpaceX and Tesla"
+      },
+      "summary": {
+        "zh": "马斯克在 X 发文称，将于当晚（美国中部时间约 20:00）正式宣布由 @SpaceX 与 @Tesla 联合开展的 TERAFAB 项目，目标是每年生产超过 1 太瓦的算力（逻辑、存储与封装），约 80% 用于太空、约 20% 用于地面。次日他又发文「SpaceXAI + Tesla TERAFAB Project」。该合作后来被马斯克和分析师反复引用，作为两家公司业务重叠、乃至探讨合并的背景，但它本身不是企业合并公告。",
+        "en": "Musk posted on X that the TERAFAB project, pursued jointly by @SpaceX and @Tesla, would be formally announced that evening at about 20:00 US Central time. The goal was to produce more than 1 terawatt of compute a year (logic, memory and packaging), with about 80% for space and about 20% for the ground. The next day he posted \"SpaceXAI + Tesla TERAFAB Project.\" Musk and analysts later cited the collaboration often as background for how the two businesses overlap, and for why a merger was even being discussed, but the project itself was not a corporate-merger announcement."
+      },
+      "source": "Elon Musk posts on X",
+      "url": "https://x.com/elonmusk/status/2035506574182199757"
+    },
+    {
+      "date": "2024-07-25",
+      "status": "confirmed",
+      "title": {
+        "zh": "马斯克回复 TED 的 Chris Anderson：原则上不反对把各公司并到一起，但怀疑有可行或合法路径",
+        "en": "Musk replies to TED's Chris Anderson: not opposed in principle to putting the companies together, but doubtful there is a pragmatic or legal path"
+      },
+      "summary": {
+        "zh": "Anderson 发长文建议马斯克把特斯拉、SpaceX、xAI、X、Neuralink、Boring Company 等折入一个名为 FutureX 的单一实体。马斯克回复：「我原则上不反对这个想法，但不确定是否有务实或合法的办法把它们合并。把员工股权激励与各自公司的成就挂钩，也有其价值。」这是早期态度，与 2026 年他因 AI/机器人/芯片重叠而改口形成对照。当时并无交易。",
+        "en": "Anderson wrote a long post suggesting Musk fold Tesla, SpaceX, xAI, X, Neuralink, the Boring Company and others into one entity called FutureX. Musk replied: \"I'm not opposed to the idea in principle, but I'm not sure there is a pragmatic or legal way to merge them. There is also value in equity incentives of people at the companies being tied to that company's accomplishments.\" That was an earlier position, contrasted with his 2026 comments once the overlap in AI, robotics and chips had grown. There was no transaction at the time."
+      },
+      "source": "X posts by @TEDchris and @elonmusk",
+      "url": "https://x.com/elonmusk/status/1816355857728209020"
+    }
+  ]
+}

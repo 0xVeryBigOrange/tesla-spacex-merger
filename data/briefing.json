@@ -1,0 +1,34 @@
+{
+  "as_of": "2026-11-22",
+  "updated_at": "2026-11-22T14:00:00+08:00",
+  "headline": {
+    "zh": "合并仍在探讨：没有宣布，更没有交割",
+    "en": "Still only under discussion: not announced, and not closed"
+  },
+  "summary": {
+    "zh": "截至 2026 年 11 月 22 日（亚洲/新加坡），Tesla 与 SpaceX（代码 SPCX）没有已宣布、更没有已交割的合并，也没有公布换股比例或正式协议。已确认的是：马斯克在 10 月 20 日 SpaceX 三季报电话会上说，两家公司应股东要求成立了独立董事特别委员会来探讨合并；委员会尚未就任何条款达成一致，也不保证会达成。11 月 12 日彭博援引匿名知情人士称谈判有进展，公告最早或在 12 月，也可能推迟到 2027 年初。那是传闻，不是成交公告。",
+    "en": "As of 22 November 2026 (Asia/Singapore), Tesla and SpaceX (ticker SPCX) have no announced merger, no closed merger, and no published exchange ratio or definitive agreement. What is confirmed: on the 20 October SpaceX third-quarter call, Musk said both companies had, at shareholders' request, formed special committees of independent directors to explore a merger. The committees had not agreed any terms, and there was no guarantee they would. On 12 November, Bloomberg, citing anonymous people familiar with the matter, said the talks were progressing and that an announcement could come as soon as December or slip into early 2027. That is a rumor, not an announcement that a deal is done."
+  },
+  "points": [
+    {
+      "zh": "特斯拉侧需要全部已发行股份至少 50% 同意，不只是出席投票的股份。马斯克称自己是利益冲突方，不参加委员会讨论。",
+      "en": "On the Tesla side, at least 50% of all shares outstanding must approve, not just the shares that vote. Musk has said he is a conflicted party and is not in the committee discussions."
+    },
+    {
+      "zh": "市场和分析师的主流推演是全股票、由已上市的 SpaceX 吸收特斯拉。公司没有确认交易结构或对价。",
+      "en": "The mainstream market and analyst scenario is an all-stock deal in which already-listed SpaceX absorbs Tesla. The companies have not confirmed the structure or the price."
+    },
+    {
+      "zh": "11 月 20 日美股收盘：TSLA 345.82 美元，跌 7.64%；SPCX 约 127.79 美元，跌 7.69%。多家报道把当天的下跌主要归因于人工智能与成长股普跌，而不是一份新的合并文件。",
+      "en": "US close on 20 November: TSLA $345.82, down 7.64%; SPCX about $127.79, down 7.69%. Several reports attributed that day's drop mainly to a broad AI and growth-stock selloff, not to a new merger document."
+    },
+    {
+      "zh": "特斯拉 2026 年股东年会定在 12 月 3 日。公开报道称，拟议合并目前不在这次年会的投票议程上。",
+      "en": "Tesla's 2026 annual shareholder meeting is set for 3 December. Published reports say the proposed merger is not on the ballot for that meeting."
+    }
+  ],
+  "tsla_analysis": {
+    "zh": "截至本简报（2026-11-22，亚洲/新加坡），最新的正式收盘仍是美国 2026-11-20：TSLA 345.82 美元，较前收 374.41 美元下跌 28.59 美元（7.64%）。Benzinga、CNBC 等把当天跌势主要归因于人工智能与成长股的大范围抛售，而不是新的合并官方文件。按上述收盘价，股价自 10 月 27 日的 407.46 美元回落约 15.1%。汇丰分析师 Michael Tyndall 在 11 月 20 日把评级从 Reduce 上调至 Hold，目标价从 157 美元调至 359 美元，并对两种情景等权：若 SpaceX 按过去 30 日均价溢价 33% 收购，对应每股 507 美元；若交易不成，独立 DCF 为每股 212 美元。该行强调，马斯克自己把 50% 的股东门槛称为相当高，因此不把交易当成既定事实。若价格里已经含有一部分被收购溢价，谈判推迟、条款不及预期或监管受阻时，这部分溢价可能回吐。212 美元的独立估值远低于近期交易区间，只是这一家卖方的看法，与更高的华尔街平均目标价同时存在。即便将来宣布协议，特斯拉股东仍要面对换股比例、全部已发行股份 50% 的投票、中国业务与美国防务监管，以及薪酬和控制权变更条款怎么处理。按公开报道，12 月 3 日的年会目前不是表决合并的会议。\n\n期权方面，AlphaQuery 给出的截至 2026-11-20 的 20 日隐含波动率均值为 65.48%（认购 65.51%，认沽 65.45%），略低于同期收盘价历史波动率 69.52%。成交量认沽/认购比为 0.9604，未平仓认沽/认购比为 1.0877。OptionScout 页面标过周末约 351.10 美元的报价，并给出近月平值附近隐含波动率约 54%；11 月 21 日是周六，这个数字不能代替 345.82 美元的正式收盘。另有公开报道称，在马斯克 10 月确认谈判之前，高盛扩大了特斯拉期权头寸，同时把正股持股削减 11.7%：截至 9 月末，认购期权覆盖约 566 万股，认沽期权覆盖约 524 万股，两边一起增加，更像波动率或对冲，不能直接当成可以核验的单向押注。除这些已发表数字外，没有可独立核对、且与合并一一对应的期权大单明细。以上是公开资料的摘录，不是对价格或波动率的预测。",
+    "en": "As of this briefing (22 November 2026, Asia/Singapore), the latest official close was still the US session of 20 November 2026: TSLA at $345.82, down $28.59 (7.64%) from the previous close of $374.41. Benzinga, CNBC and others attributed that drop mainly to a broad selloff in AI and growth stocks, not to a new official merger document. On those closes, the stock was about 15.1% below the 27 October close of $407.46. On 20 November, HSBC analyst Michael Tyndall upgraded the stock from Reduce to Hold and raised the target from $157 to $359, equal-weighting two cases: $507 a share if SpaceX bought Tesla at a 33% premium to the 30-day average price, and a standalone DCF of $212 a share if no deal happened. The bank stressed that Musk himself called the 50% shareholder hurdle pretty high, so it does not treat a deal as a given. If the price already includes some takeover premium, that premium can come out if talks slip, terms disappoint, or regulators block a deal. A $212 standalone value is far below the recent trading range; it is one sell-side view, alongside a higher Wall Street average target. Even if an agreement were announced, Tesla shareholders would still face the exchange ratio, a vote of 50% of all shares outstanding, China operations versus US defense regulation, and how pay and change-of-control terms are handled. Published reports say the 3 December annual meeting is not, at present, a meeting that votes on the merger.\n\nOn options, AlphaQuery's 20-day implied-volatility mean for TSLA was 65.48% as of 20 November 2026 (calls 65.51%, puts 65.45%), a little below the 69.52% close-to-close historical volatility over the same window. The volume put/call ratio was 0.9604 and the open-interest put/call ratio was 1.0877. An OptionScout page showed a weekend quote near $351.10 and near-term at-the-money implied volatility around 54%. 21 November was a Saturday, so that figure does not replace the official $345.82 close. Separate published reporting said that, before Musk confirmed talks in October, Goldman Sachs had enlarged its Tesla options position while cutting the share holding by 11.7%: as of the end of September, calls covered about 5.66 million shares and puts about 5.24 million. Calls and puts rose together, which looks more like volatility or a hedge than a verifiable one-way bet. Beyond those published figures, there is no independently checkable options-block record that maps one-for-one onto the merger. All of this is an extract of public material, not a forecast of price or volatility."
+  }
+}
