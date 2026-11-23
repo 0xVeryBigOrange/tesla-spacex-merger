@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-11-22",
-  "updated_at": "2026-11-22T14:00:00+08:00",
+  "as_of": "2026-11-23",
+  "updated_at": "2026-11-23T09:45:00+08:00",
   "items": [
     {
       "date": "2026-11-20",
@@ -31,6 +31,20 @@
       "url": "https://www.tipranks.com/news/hsbc-upgrades-tesla-stock-to-hold-and-raises-price-target-to-359-heres-why"
     },
     {
+      "date": "2026-11-20",
+      "status": "confirmed",
+      "title": {
+        "zh": "候任众议院情报委员会主席 Himes 致信马斯克：不解释乌克兰 Starshield 断续问题，就难以继续支持 SpaceX 政府系统拨款",
+        "en": "Incoming House Intelligence chair Himes writes to Musk: without answers on Ukraine Starshield disruptions, he can hardly keep backing funding for SpaceX-built government systems"
+      },
+      "summary": {
+        "zh": "众议院情报委员会民主党首席议员 Jim Himes（预计 1 月出任主席）11 月 20 日致信马斯克，要求 SpaceX 高层解释 2026 年 10 月乌克兰 Starshield 服务中断的原因、是否由 SpaceX 单方面决定。信中称，这件事让美国政府与 SpaceX 的每一份合同都受到质疑，在得到满意答复前难以继续支持为 SpaceX 研制、政府拥有的系统授权拨款。Newsweek 报道称目前尚未实施任何拨款限制。这与合并没有直接关系，但 SpaceX 的美国国防合同本来就被视为合并的主要监管难点之一，国会层面的审查正在加码。",
+        "en": "Jim Himes, ranking Democrat on the House Intelligence Committee and expected to chair it from January, wrote to Musk on 20 November asking senior SpaceX officials to explain the October 2026 Starshield disruptions in Ukraine and whether SpaceX made the changes on its own. The letter says this calls into question every US government contract with SpaceX and that it is difficult for him to keep supporting authorization of funding for SpaceX-developed, government-owned systems until he gets satisfactory answers. Newsweek reported that no funding restrictions have been imposed. This is not merger news as such, but SpaceX's US defense contracts were already seen as one of the main regulatory hurdles for a deal, and congressional scrutiny is rising."
+      },
+      "source": "HPSCI Democrats (letter); Newsweek; Ars Technica",
+      "url": "https://democrats-intelligence.house.gov/uploadedfiles/11.20.12_letter_from_hpsci_ranking_member_jim_himes_to_musk.pdf"
+    },
+    {
       "date": "2026-11-18",
       "status": "confirmed",
       "title": {
@@ -43,6 +57,20 @@
       },
       "source": "DealBook 2026 transcript (Singju Post / Elon Musk Archive); Yahoo Finance/StockTwits; Benzinga; CNBC",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-better-together-musk-015619735.html"
+    },
+    {
+      "date": "2026-11-16",
+      "status": "confirmed",
+      "title": {
+        "zh": "CNBC：Kalshi 上「2027 年 3 月前合并」的概率从 27% 升到 62%；Jefferies 提示中期选举后审查风险上升",
+        "en": "CNBC: Kalshi odds of a merger before March 2027 jump from 27% to 62%; Jefferies flags higher scrutiny after the midterms"
+      },
+      "summary": {
+        "zh": "CNBC 11 月 16 日报道，彭博 11 月 12 日传闻之后，Kalshi 多个合约的合并概率上升，其中「2027 年 3 月前合并」从 27% 升至 62%。这是预测市场的定价，不是公司确认。同文引述 Jefferies 分析师 Philippe Houchois：民主党赢得国会后交易面临更高审查风险，但合并后公司作为美国长期战略代理的逻辑仍然成立；彭博报道得州候任总检察长 Nathan Johnson（民主党）称交易将受到「巨大审查」。传记作者 Walter Isaacson 在 CNBC 上称他确信合并会发生，这只是个人判断。",
+        "en": "CNBC reported on 16 November that after Bloomberg's 12 November report, odds rose across several Kalshi markets; the 'merge before March 2027' contract climbed to 62% from 27%. That is prediction-market pricing, not company confirmation. The same story quoted Jefferies analyst Philippe Houchois saying a deal faces higher scrutiny risk after Democrats won Congress, though the case for a combined company as a proxy for long-term US strategy still holds; Bloomberg reported Texas Attorney General-elect Nathan Johnson, a Democrat, said a merger would face 'tremendous scrutiny'. Biographer Walter Isaacson told CNBC he is confident a merger is coming, which is his personal view."
+      },
+      "source": "CNBC; Kalshi; Jefferies; Bloomberg",
+      "url": "https://www.cnbc.com/2026/11/16/prediction-market-odds-for-tesla-spacex-merger-by-april-2027-top-60percent.html"
     },
     {
       "date": "2026-11-12",

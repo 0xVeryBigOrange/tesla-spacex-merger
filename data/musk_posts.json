@@ -1,11 +1,37 @@
 {
-  "as_of": "2026-11-22",
-  "updated_at": "2026-11-22T14:00:00+08:00",
+  "as_of": "2026-11-23",
+  "updated_at": "2026-11-23T09:45:00+08:00",
   "intro": {
     "zh": "在这次检索范围内，马斯克几乎没有用自己的原创长文在 X 上宣布或详述 Tesla 与 SpaceX 的合并。实质性表态主要出现在 2026-10-20 的 SpaceX 财报电话会和 2026-11-18 的 DealBook 峰会；在 X 上，他多半是转发别人整理的原话。下面按时间从新到旧，列出资料中与合并、或与两家公司业务纽带有关的帖子。时间显示为亚洲/新加坡。",
     "en": "In the posts reviewed for this dossier, Musk barely used an original long post on X to announce or spell out a Tesla–SpaceX merger. The substantive comments were at the SpaceX earnings call on 20 October 2026 and the DealBook Summit on 18 November 2026. On X he mostly reposted other people's transcripts. Below, newest first, are the posts in the dossier that relate to the merger or to business ties between the two companies. Times are shown in Asia/Singapore."
   },
   "posts": [
+    {
+      "date": "2026-11-23T01:15:05.000Z",
+      "url": "https://x.com/elonmusk/status/2124673053246312848",
+      "kind": "reply",
+      "text": {
+        "zh": "@davidmarcus 希望在明年年底前后推出。\n\n这对无监督 FSD 很重要，让乘客在任何地方都有高带宽网络用于工作和娱乐。",
+        "en": "@davidmarcus Hopefully available towards the end of next year. \n\nThis will be important for unsupervised FSD, so passengers have high bandwidth everywhere for work and entertainment."
+      },
+      "note": {
+        "zh": "回复 David Marcus 的帖子：「等不及特斯拉在所有车型（Cybercab 之外）提供内置 Starlink 选项了。」原帖：https://x.com/davidmarcus/status/2124662177693102590 。这是两家公司业务纽带（Starlink 进特斯拉车）的时间表表态，不是合并公告。",
+        "en": "Reply to David Marcus: \"Can't wait for Tesla to offer an embedded Starlink option in all models (beyond the Cybercab).\" Original: https://x.com/davidmarcus/status/2124662177693102590 . A timing comment on a business tie between the companies (Starlink in Tesla cars), not a merger announcement."
+      }
+    },
+    {
+      "date": "2026-11-22T20:52:13.000Z",
+      "url": "https://x.com/elonmusk/status/2124606900553863466",
+      "kind": "post",
+      "text": {
+        "zh": "特斯拉的超级智能软件、芯片设计和 Terafab 都是很好玩的工作地方",
+        "en": "Tesla super intelligence software, chip design & Terafab are fun places to work"
+      },
+      "note": {
+        "zh": "引用特斯拉 AI 团队 Julian Ibarz 的帖子（称端到端具身 AI 已部署到数百万辆车，大型世界模型由 Autopilot 与 Optimus 共用）。原帖：https://x.com/julianibarz/status/2124559848444694824 。是招聘性质，提到联合项目 Terafab，没有提合并。",
+        "en": "Quotes a post by Tesla AI's Julian Ibarz (saying end-to-end embodied AI is shipped to millions of cars and a larger world model is shared between Autopilot and Optimus). Original: https://x.com/julianibarz/status/2124559848444694824 . A recruiting post that mentions the joint Terafab project; it does not mention a merger."
+      }
+    },
     {
       "date": "2026-11-19T08:51:57.000Z",
       "url": "https://x.com/elonmusk/status/2123338476934627352",
@@ -20,6 +46,19 @@
       }
     },
     {
+      "date": "2026-11-19T06:07:29.000Z",
+      "url": "https://x.com/elonmusk/status/2123297089946034502",
+      "kind": "repost",
+      "text": {
+        "zh": "转发 @SpaceInvestor_D：$SPCX：萨提亚·纳德拉说微软会租用 SpaceX 的算力。\n\n在 DealBook 上被问到马斯克关于太空数据中心的看法是否正确时：\n「如果他有可以租给我的 SpaceX 算力，我会租。」",
+        "en": "RT @SpaceInvestor_D: $SPCX: Satya Nadella says Microsoft would rent SpaceX compute.\n\nAsked at DealBook whether Musk is right about data centers in space:\n\"If he has SpaceX capacity that I can lease, I would lease it.\""
+      },
+      "note": {
+        "zh": "转发他人整理的 DealBook 片段，涉及 SPCX 的算力业务，不涉及合并条款。原帖：https://x.com/SpaceInvestor_D/status/2123211962289176891",
+        "en": "A repost of someone else's DealBook clip about SPCX's compute business; nothing on merger terms. Original: https://x.com/SpaceInvestor_D/status/2123211962289176891"
+      }
+    },
+    {
       "date": "2026-11-19T01:38:18.000Z",
       "url": "https://x.com/elonmusk/status/2123229344936173890",
       "kind": "post",
@@ -30,6 +69,19 @@
       "note": {
         "zh": "截至 2026-11-19，他仍在为 Terafab 招募工程师。这是两家公司的联合项目，不是合并公告。",
         "en": "As of 19 November 2026 he was still recruiting engineers for Terafab. That is the companies' joint project, not a merger announcement."
+      }
+    },
+    {
+      "date": "2026-11-19T00:46:36.000Z",
+      "url": "https://x.com/elonmusk/status/2123216337602486308",
+      "kind": "repost",
+      "text": {
+        "zh": "转发 @KanekoaTheGreat：埃隆·马斯克预测超级智能算力将 100% 在太空，并说特斯拉和 SpaceX「大概」在一起会更好：\n\n「放眼未来，轨道算力才是真正能规模化的地方。」",
+        "en": "RT @KanekoaTheGreat: Elon Musk predicts 100% of superintelligence compute will be in space, and says Tesla and SpaceX would “probably” be better together:\n\n“If you look into the future, orbital compute is really going to be where things scale to.”"
+      },
+      "note": {
+        "zh": "转发他人整理的 DealBook「大概会更好在一起」片段；接口返回的原帖文字被截断，这里只收录可见部分。原帖：https://x.com/KanekoaTheGreat/status/2123212134175949267",
+        "en": "A repost of someone else's DealBook clip of the 'probably better together' remark. The original text returned by the API is truncated; only the visible part is included. Original: https://x.com/KanekoaTheGreat/status/2123212134175949267"
       }
     },
     {
