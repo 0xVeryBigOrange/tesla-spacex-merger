@@ -1,11 +1,37 @@
 {
-  "as_of": "2026-11-23",
-  "updated_at": "2026-11-23T09:45:00+08:00",
+  "as_of": "2026-11-24",
+  "updated_at": "2026-11-24T09:40:00+08:00",
   "intro": {
     "zh": "在这次检索范围内，马斯克几乎没有用自己的原创长文在 X 上宣布或详述 Tesla 与 SpaceX 的合并。实质性表态主要出现在 2026-10-20 的 SpaceX 财报电话会和 2026-11-18 的 DealBook 峰会；在 X 上，他多半是转发别人整理的原话。下面按时间从新到旧，列出资料中与合并、或与两家公司业务纽带有关的帖子。时间显示为亚洲/新加坡。",
     "en": "In the posts reviewed for this dossier, Musk barely used an original long post on X to announce or spell out a Tesla–SpaceX merger. The substantive comments were at the SpaceX earnings call on 20 October 2026 and the DealBook Summit on 18 November 2026. On X he mostly reposted other people's transcripts. Below, newest first, are the posts in the dossier that relate to the merger or to business ties between the two companies. Times are shown in Asia/Singapore."
   },
   "posts": [
+    {
+      "date": "2026-11-23T14:59:51.000Z",
+      "url": "https://x.com/elonmusk/status/2124880613236957467",
+      "kind": "repost",
+      "text": {
+        "zh": "[转发 @KatieMiller] @spacexai 一直禁止这种行为，采取了大量措施防止，而且已经很长时间没有用户绕过这些保护了。\n\n这又是民主党出于政治原因针对 @elonmusk，而不是去解决科技领域长期存在的重大社会问题。",
+        "en": "RT @KatieMiller: .@spacexai has always prohibited this conduct, have taken extensive measures to prevent it, and haven't had any users evade those protections in a very long time.\n\nThis is another example of Democrats singling out @elonmusk for political reasons rather than tackling big, ongoing societal problems in tech."
+      },
+      "note": {
+        "zh": "原帖：https://x.com/KatieMiller/status/2124850376188874863 。发在弗吉尼亚、俄勒冈两州就 Grok 起诉 SpaceX 当天，是 SpaceX 一方对诉讼的回应；与合并没有直接关系，但涉及潜在收购方的法律风险。",
+        "en": "Original: https://x.com/KatieMiller/status/2124850376188874863 . Posted the day Virginia and Oregon sued SpaceX over Grok; it is SpaceX's side responding to the suits. Not directly about the merger, but it concerns legal risk at the likely acquirer."
+      }
+    },
+    {
+      "date": "2026-11-23T01:37:42.000Z",
+      "url": "https://x.com/elonmusk/status/2124678745629790551",
+      "kind": "reply",
+      "text": {
+        "zh": "@SawyerMerritt 中国除外，因为 Starlink 在那里是非法的",
+        "en": "@SawyerMerritt Except in China, as Starlink is illegal there"
+      },
+      "note": {
+        "zh": "回复 Sawyer Merritt 的帖子（称马斯克表示所有特斯拉车型到 2027 年底可能内置 Starlink，达拉斯的 Cybercab 已经装有）。原帖：https://x.com/SawyerMerritt/status/2124675012582093283 。说明 Starlink 与特斯拉的业务纽带在中国无法落地，与合并中的中国监管难点相关；没有谈合并条款。",
+        "en": "Reply to Sawyer Merritt (who wrote that Musk says all Tesla models could get integrated Starlink by end of 2027, and Dallas Cybercabs already have it). Original: https://x.com/SawyerMerritt/status/2124675012582093283 . Shows the Starlink–Tesla tie cannot extend to China, relevant to the China regulatory hurdle for a merger; no merger terms discussed."
+      }
+    },
     {
       "date": "2026-11-23T01:15:05.000Z",
       "url": "https://x.com/elonmusk/status/2124673053246312848",

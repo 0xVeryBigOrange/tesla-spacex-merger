@@ -1,7 +1,49 @@
 {
-  "as_of": "2026-11-23",
-  "updated_at": "2026-11-23T09:45:00+08:00",
+  "as_of": "2026-11-24",
+  "updated_at": "2026-11-24T09:40:00+08:00",
   "items": [
+    {
+      "date": "2026-11-23",
+      "status": "confirmed",
+      "title": {
+        "zh": "TSLA 大涨 11.46% 收于 385.46 美元：FSD v15、合并预期与大盘反弹共振",
+        "en": "TSLA jumps 11.46% to close at $385.46 on FSD v15, merger hopes and a market rebound"
+      },
+      "summary": {
+        "zh": "美国周一（11月23日）TSLA 收盘 385.46 美元，较前收 345.82 美元上涨 39.64 美元（11.46%），盘中最高 393.83 美元。报道把上涨归因于三点：特斯拉周末开始推送 FSD v15；关于 SpaceX 可能收购特斯拉的讨论（汇丰把被收购情景估值定为每股 507 美元，Cathie Wood 称特斯拉股东会要求溢价）；以及英伟达董事会恢复黄仁勋 CEO 职务后的大盘反弹（Investing.com 称纳指 +6.9%、标普 +5.0%）。没有新的合并公告或文件。同日 SPCX 收于 133.35 美元，较前收 127.79 美元上涨约 4.4%。",
+        "en": "On Monday 23 November TSLA closed at $385.46, up $39.64 (11.46%) from $345.82, with an intraday high of $393.83. Reports attributed the rise to three things: the weekend start of the FSD v15 rollout; talk of a possible SpaceX acquisition of Tesla (HSBC's takeover scenario values Tesla at $507 a share, and Cathie Wood said Tesla holders would demand a premium); and a broad rebound after Nvidia's board reinstated Jensen Huang as CEO (Investing.com cited Nasdaq +6.9%, S&P 500 +5.0%). There was no new merger announcement or filing. SPCX closed at $133.35 the same day, up about 4.4% from $127.79."
+      },
+      "source": "The Motley Fool; Investing.com; MarketWatch; Yahoo Finance chart",
+      "url": "https://www.fool.com/investing/2026/11/23/why-tesla-stock-stepped-on-the-gas-today/"
+    },
+    {
+      "date": "2026-11-23",
+      "status": "confirmed",
+      "title": {
+        "zh": "弗吉尼亚州与俄勒冈州起诉 SpaceX、X 与 SpaceX Super Intelligence，指 Grok 生成深度伪造色情内容",
+        "en": "Virginia and Oregon sue SpaceX, X and SpaceX Super Intelligence over Grok deepfake sexual imagery"
+      },
+      "summary": {
+        "zh": "两州总检察长分别依据本州消费者保护法起诉 SpaceX Super Intelligence、X Corp. 和 Space Exploration Technologies Corp.，指控 Grok 可生成未经同意的性化图像与儿童性虐待内容，且公司对安全措施的宣传不实；寻求禁令、民事罚款、追缴所得等。俄勒冈州 11 月 22 日晚提交，弗吉尼亚州 11 月 23 日提交（CNBC 称截至周一早些时候仍待法院受理）。这与合并没有直接关系，但增加了 SpaceX（潜在收购方）的法律与政治风险。",
+        "en": "The two states' attorneys general each sued SpaceX Super Intelligence, X Corp. and Space Exploration Technologies Corp. under state consumer-protection laws, alleging Grok could generate non-consensual sexualized images and child sexual abuse material and that the companies misrepresented their safeguards; they seek injunctions, civil penalties and disgorgement. Oregon filed on the evening of 22 November and Virginia on 23 November (CNBC said the suits were pending court acceptance early Monday). Not directly about the merger, but it adds legal and political risk for SpaceX, the likely acquirer."
+      },
+      "source": "CNBC; Virginia Office of the Attorney General; Oregon DOJ",
+      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"
+    },
+    {
+      "date": "2026-11-23",
+      "status": "confirmed",
+      "title": {
+        "zh": "马斯克：特斯拉全车型内置 Starlink 希望明年年底前后推出，但中国除外",
+        "en": "Musk: built-in Starlink for all Tesla models hopefully toward end of next year, except in China"
+      },
+      "summary": {
+        "zh": "马斯克在 X 上回复称，特斯拉车内置 Starlink「希望在明年年底前后」推出，对无监督 FSD 很重要；随后又补充「中国除外，因为 Starlink 在那里是非法的」。这是两家公司业务纽带的表态，也从侧面说明特斯拉中国业务与 SpaceX 业务难以打通，正是合并的监管难点之一。不是合并公告。",
+        "en": "Musk replied on X that built-in Starlink in Teslas is 'hopefully available towards the end of next year' and important for unsupervised FSD, then added 'Except in China, as Starlink is illegal there.' It is a comment on business ties between the companies and highlights the separation between Tesla's China business and SpaceX, one of the regulatory hurdles to a merger. It is not a merger announcement."
+      },
+      "source": "X (@elonmusk)",
+      "url": "https://x.com/elonmusk/status/2124678745629790551"
+    },
     {
       "date": "2026-11-20",
       "status": "confirmed",
