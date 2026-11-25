@@ -3,19 +3,15 @@
   "currency": "USD",
   "source": "Yahoo Finance chart",
   "source_url": "https://query1.finance.yahoo.com/v8/finance/chart/TSLA?range=3mo&interval=1d&includePrePost=false",
-  "fetched_at": "2026-11-25T01:47:10+08:00",
-  "price": 383.73,
+  "fetched_at": "2026-11-25T10:30:43+08:00",
+  "price": 384.68,
   "previous_close": 385.46,
-  "change": -1.73,
-  "change_percent": -0.45,
+  "change": -0.78,
+  "change_percent": -0.2,
   "trading_date": "2026-11-24",
-  "market_time": "2026-11-24T17:47:11+00:00",
+  "market_time": "2026-11-24T21:00:01+00:00",
   "exchange": "NasdaqGS",
   "history": [
-    {
-      "date": "2026-08-24",
-      "close": 348.95
-    },
     {
       "date": "2026-08-25",
       "close": 350.25
@@ -274,10 +270,10 @@
     },
     {
       "date": "2026-11-24",
-      "close": 383.73
+      "close": 384.68
     }
   ],
   "day_high": 390.09,
   "day_low": 375.5,
-  "volume": 17379158
+  "volume": 28208872
 }
