@@ -1,11 +1,37 @@
 {
-  "as_of": "2026-11-24",
-  "updated_at": "2026-11-24T09:40:00+08:00",
+  "as_of": "2026-11-25",
+  "updated_at": "2026-11-25T09:40:00+08:00",
   "intro": {
     "zh": "在这次检索范围内，马斯克几乎没有用自己的原创长文在 X 上宣布或详述 Tesla 与 SpaceX 的合并。实质性表态主要出现在 2026-10-20 的 SpaceX 财报电话会和 2026-11-18 的 DealBook 峰会；在 X 上，他多半是转发别人整理的原话。下面按时间从新到旧，列出资料中与合并、或与两家公司业务纽带有关的帖子。时间显示为亚洲/新加坡。",
     "en": "In the posts reviewed for this dossier, Musk barely used an original long post on X to announce or spell out a Tesla–SpaceX merger. The substantive comments were at the SpaceX earnings call on 20 October 2026 and the DealBook Summit on 18 November 2026. On X he mostly reposted other people's transcripts. Below, newest first, are the posts in the dossier that relate to the merger or to business ties between the two companies. Times are shown in Asia/Singapore."
   },
   "posts": [
+    {
+      "date": "2026-11-24T23:00:26.000Z",
+      "url": "https://x.com/elonmusk/status/2125363942977597554",
+      "kind": "post",
+      "text": {
+        "zh": "Starlink\n\n[引用 @SawyerMerritt：SpaceX 同意放弃 7.38 亿美元美国联邦宽带补贴，改为向符合条件的美国家庭免费提供 Starlink 设备……]",
+        "en": "Starlink\n\n[Quoting @SawyerMerritt: SpaceX has agreed to forgo $738 million in U.S. federal broadband subsidies and instead provide free @Starlink hardware to eligible American households. …]"
+      },
+      "note": {
+        "zh": "与合并无直接关系；涉及 SpaceX 与美国政府补贴关系，是监管与政治审查背景的一部分。",
+        "en": "Not directly about the merger; it concerns SpaceX's relationship with U.S. government subsidies, part of the regulatory and political-scrutiny backdrop."
+      }
+    },
+    {
+      "date": "2026-11-24T00:14:14.000Z",
+      "url": "https://x.com/elonmusk/status/2125020128484131013",
+      "kind": "reply",
+      "text": {
+        "zh": "@WR4NYGov 纽时把显而易见的事当成「新闻」🙄",
+        "en": "@WR4NYGov NYT is posting the obvious as “news” 🙄"
+      },
+      "note": {
+        "zh": "回应《纽约时报》关于 SpaceX 向 Anthropic、谷歌出售算力的报道；该报道同日拖累 SPCX 下跌 5.65%。没有谈合并。",
+        "en": "A response to the New York Times report that SpaceX sells compute to Anthropic and Google; that report weighed on SPCX, which fell 5.65% the same day. He did not discuss the merger."
+      }
+    },
     {
       "date": "2026-11-23T14:59:51.000Z",
       "url": "https://x.com/elonmusk/status/2124880613236957467",

@@ -1,7 +1,49 @@
 {
-  "as_of": "2026-11-24",
-  "updated_at": "2026-11-24T09:40:00+08:00",
+  "as_of": "2026-11-25",
+  "updated_at": "2026-11-25T09:40:00+08:00",
   "items": [
+    {
+      "date": "2026-11-24",
+      "status": "rumor",
+      "title": {
+        "zh": "FT：特斯拉与 SpaceX 公布谈判委员会成员与顾问，目标年底前达成协议但「尚未接近」",
+        "en": "FT: Tesla and SpaceX negotiating committee members and advisers named; year-end target but deal 'not close'"
+      },
+      "summary": {
+        "zh": "英国《金融时报》援引知情人士报道：特斯拉特别委员会由董事长 Robyn Denholm、Kathleen Wilson-Thompson、Jack Hartung 组成，顾问 Evercore；SpaceX 由 Roelof Botha、Randy Glein 代表，顾问摩根士丹利与高盛。交易拟为全股票，合并后约 3.5 万亿美元，双方正在建财务模型、谈换股比例，朝年底期限推进，但知情人士称尚未接近达成。马斯克依得州治理规则不正式参与谈判。特斯拉需召开特别股东会，须获全部已发行投票权过半数；交易可能面临美国、中国、欧洲和英国的监管审查。两家公司未就该报道发表声明。",
+        "en": "The Financial Times, citing people familiar with the matter, reported that Tesla's special committee is chair Robyn Denholm, Kathleen Wilson-Thompson and Jack Hartung, advised by Evercore, while SpaceX is represented by Roelof Botha and Randy Glein, advised by Morgan Stanley and Goldman Sachs. The deal is expected to be all-stock, creating a group worth about $3.5 trillion; advisers are building models and negotiating an exchange ratio, moving toward a year-end deadline, though people involved said an agreement is not close. Under Texas governance rules Musk is not formally part of the negotiations. Tesla would need an extraordinary shareholder meeting with approval from more than 50% of all outstanding votes, and the deal could face regulatory scrutiny in the US, China, Europe and the UK. Neither company commented on the report."
+      },
+      "source": "Financial Times via Investing.com; Reuters; Electrek",
+      "url": "https://www.investing.com/news/stock-market-news/spacex-tesla-directors-negotiate-potential-35-trillion-merger-ft-reports-5047091"
+    },
+    {
+      "date": "2026-11-24",
+      "status": "confirmed",
+      "title": {
+        "zh": "摩根大通：与特斯拉合并可能让 SpaceX 提前进入标普 500",
+        "en": "J.P. Morgan: a Tesla merger could speed SpaceX's entry into the S&P 500"
+      },
+      "summary": {
+        "zh": "据路透，摩根大通 11 月 24 日报告称，SpaceX 目前因上市不足 12 个月、GAAP 盈利条件不满足而不符合标普 500 纳入要求；若与特斯拉合并，按历史先例指数委员会可能豁免部分要求，触发约占自由流通股 10% 的被动买盘。标普已确认会随禁售期到期分阶段上调 SpaceX 的自由流通市值。",
+        "en": "Per Reuters, a J.P. Morgan note on 24 November said SpaceX is not currently eligible for the S&P 500 because it lacks 12 months of trading and the GAAP profitability requirements; if it merges with Tesla, precedent suggests the index committee could waive some requirements, triggering passive buying of roughly 10% of its free float. S&P has confirmed it will raise SpaceX's float-adjusted market cap in steps as lock-ups expire."
+      },
+      "source": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/possible-tesla-merger-could-aid-spacexs-sp-500-entry-jp-morgan-says-5048726"
+    },
+    {
+      "date": "2026-11-24",
+      "status": "confirmed",
+      "title": {
+        "zh": "SPCX 跌 5.65% 至 125.81 美元：纽时报道 SpaceX 靠出租算力补现金缺口；TSLA 收 384.68 美元（-0.20%）",
+        "en": "SPCX falls 5.65% to $125.81 after NYT report on SpaceX leasing compute to cover cash burn; TSLA closes at $384.68 (-0.20%)"
+      },
+      "summary": {
+        "zh": "据 Motley Fool 转述《纽约时报》报道：SpaceX 过去 12 个月营收 320 亿美元，但年烧现金近 400 亿美元，向 Anthropic（每月 31 亿美元）和 Alphabet（每月 8 亿美元）出租算力；马斯克内部抱怨公司正变成「算力出租公司」，并已削减部分 AI 项目、从 Optimus 抽调人手以加强 Grok。SPCX 周二收 125.81 美元（-5.65%），TSLA 收 384.68 美元（-0.20%）。马斯克在 X 上称纽时「把显而易见的事当新闻」。",
+        "en": "Per Motley Fool, relaying a New York Times report: SpaceX had $32 billion of trailing-12-month revenue but burns nearly $40 billion a year, and leases compute to Anthropic ($3.1 billion a month) and Alphabet ($800 million a month); Musk internally complained the company is becoming 'a computer rental company' and has cut some AI projects and shifted staff from Optimus to strengthen Grok. SPCX closed Tuesday at $125.81 (-5.65%) and TSLA at $384.68 (-0.20%). On X, Musk said the NYT was 'posting the obvious as news'."
+      },
+      "source": "The Motley Fool; The New York Times; Finabase",
+      "url": "https://www.fool.com/investing/2026/11/24/why-spacex-dropped-again-today/"
+    },
     {
       "date": "2026-11-23",
       "status": "confirmed",
