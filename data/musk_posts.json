@@ -1,11 +1,59 @@
 {
-  "as_of": "2026-11-25",
-  "updated_at": "2026-11-25T09:40:00+08:00",
+  "as_of": "2026-11-26",
+  "updated_at": "2026-11-26T09:40:00+08:00",
   "intro": {
     "zh": "在这次检索范围内，马斯克几乎没有用自己的原创长文在 X 上宣布或详述 Tesla 与 SpaceX 的合并。实质性表态主要出现在 2026-10-20 的 SpaceX 财报电话会和 2026-11-18 的 DealBook 峰会；在 X 上，他多半是转发别人整理的原话。下面按时间从新到旧，列出资料中与合并、或与两家公司业务纽带有关的帖子。时间显示为亚洲/新加坡。",
     "en": "In the posts reviewed for this dossier, Musk barely used an original long post on X to announce or spell out a Tesla–SpaceX merger. The substantive comments were at the SpaceX earnings call on 20 October 2026 and the DealBook Summit on 18 November 2026. On X he mostly reposted other people's transcripts. Below, newest first, are the posts in the dossier that relate to the merger or to business ties between the two companies. Times are shown in Asia/Singapore."
   },
   "posts": [
+    {
+      "date": "2026-11-25T23:26:18.000Z",
+      "url": "https://x.com/elonmusk/status/2125732841187315903",
+      "kind": "repost",
+      "text": {
+        "en": "RT @SpaceX: SpaceX is building the infrastructure of the future and working to make life multiplanetary. We believe ownership of the company creating these systems should extend to the next generation of Americans.\n \nToday, we are committing one SpaceX share to millions of American children…",
+        "zh": "转发 @SpaceX：SpaceX 正在建设未来的基础设施，并致力于让生命成为多行星物种。我们相信，打造这些系统的公司的所有权应延伸到下一代美国人。\n\n今天，我们承诺向数百万美国儿童每人捐赠一股 SpaceX 股份……"
+      },
+      "note": {
+        "zh": "SpaceX 向活跃 Trump Account 赠股的公告（CNBC 报道马斯克个人配捐）。与合并无直接关系，但涉及 SPCX 新股发行。",
+        "en": "SpaceX's announcement of share gifts to active Trump Accounts (CNBC reports Musk will personally match). Not directly about the merger, but it involves issuing new SPCX shares."
+      }
+    },
+    {
+      "date": "2026-11-25T23:26:09.000Z",
+      "url": "https://x.com/elonmusk/status/2125732803690246533",
+      "kind": "repost",
+      "text": {
+        "en": "RT @GavinSBaker: A share of SpaceX for every child in America. Another share coming next year directly from Elon.\n\nThis is great for the country imo. No better way to teach the next generation about the virtues of capitalism.\n\nLove to see more companies and founders do this.\n\nHappy Thanksgiving!",
+        "zh": "转发 @GavinSBaker：美国每个孩子一股 SpaceX。明年还会有一股直接来自 Elon。\n\n我认为这对国家很好。没有比这更好的方式教下一代认识资本主义的好处。\n\n希望看到更多公司和创始人这样做。\n\n感恩节快乐！"
+      }
+    },
+    {
+      "date": "2026-11-25T19:07:42.000Z",
+      "url": "https://x.com/elonmusk/status/2125667762324541673",
+      "kind": "post",
+      "text": {
+        "en": "SpaceX Colossus 3 will greatly benefit the Arizona community\n\n[Quoting @SpaceX: Our supercompute site in Cochise County has been designed with Arizona in mind: no gas plant, no industrial water use, and a dry-cooling closed-loop water system. SpaceX will also invest $50B+ into the area, bringing 1,000 local permanent jobs and up to 5,500 construction jobs to…]",
+        "zh": "SpaceX Colossus 3 将大大造福亚利桑那社区\n\n[引用 @SpaceX：我们在科奇斯县的超算基地充分考虑了亚利桑那：没有燃气电厂、不使用工业用水，采用干式冷却闭环水系统。SpaceX 还将在当地投资 500 亿美元以上，带来 1,000 个本地长期岗位和最多 5,500 个建设岗位……]"
+      },
+      "note": {
+        "zh": "SpaceX 地面 AI 算力投入的又一例，与合并讨论中的 AI/算力重叠有关。",
+        "en": "Another example of SpaceX's ground-based AI compute spending, relevant to the AI/compute overlap in the merger debate."
+      }
+    },
+    {
+      "date": "2026-11-25T16:41:03.000Z",
+      "url": "https://x.com/elonmusk/status/2125630856140308743",
+      "kind": "reply",
+      "text": {
+        "en": "@BrendanCarrFCC Much appreciated. This will be a great asset to America and the world.",
+        "zh": "@BrendanCarrFCC 非常感谢。这将成为美国和世界的重要资产。"
+      },
+      "note": {
+        "zh": "回复 FCC 主席 Carr 宣布批准 SpaceX 100 万颗卫星的「Starmind」轨道数据中心星座。",
+        "en": "Reply to FCC Chairman Carr announcing approval of SpaceX's 1-million-satellite 'Starmind' orbital data-center constellation."
+      }
+    },
     {
       "date": "2026-11-24T23:00:26.000Z",
       "url": "https://x.com/elonmusk/status/2125363942977597554",

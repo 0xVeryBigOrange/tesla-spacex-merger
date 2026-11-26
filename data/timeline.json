@@ -1,7 +1,77 @@
 {
-  "as_of": "2026-11-25",
-  "updated_at": "2026-11-25T09:40:00+08:00",
+  "as_of": "2026-11-26",
+  "updated_at": "2026-11-26T09:40:00+08:00",
   "items": [
+    {
+      "date": "2026-11-25",
+      "status": "confirmed",
+      "title": {
+        "zh": "SpaceX 宣布向每个活跃的 Trump Account 捐赠 1 股 A 类股，马斯克个人再配捐 1 股",
+        "en": "SpaceX pledges one Class A share to every active Trump Account, with Musk personally matching"
+      },
+      "summary": {
+        "zh": "SpaceX 11 月 25 日声明：「我们相信，打造这些系统的公司的所有权应延伸到下一代美国人。」将向每个活跃的 Trump Account（530A 儿童账户）捐 1 股 A 类股，马斯克个人配捐 1 股。CNBC 称白宫 10 月公布约 7,000 万个账户已开设，但「活跃」账户数不明；SpaceX 未披露总股数。新发股份会带来小幅稀释，具体规模未公布。马斯克在 X 上转发了 SpaceX 公告和 Gavin Baker 的评论。与合并无直接关系，但发生在 SPCX 因合并稀释担忧承压的同一天。",
+        "en": "SpaceX said on 25 November: 'We believe ownership of the company creating these systems should extend to the next generation of Americans.' It will donate one Class A share to every active Trump Account (530A children's accounts), and Musk will personally match. CNBC notes the White House said in October about 70 million accounts had been created, but the number of 'active' accounts is unclear; SpaceX did not disclose the total share count. Newly issued shares imply some dilution, size undisclosed. Musk reposted the SpaceX announcement and Gavin Baker's comment. Not directly about the merger, but it came on the same day SPCX was under pressure from merger-dilution worries."
+      },
+      "source": "CNBC; SpaceX",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
+    },
+    {
+      "date": "2026-11-25",
+      "status": "confirmed",
+      "title": {
+        "zh": "FCC 批准 SpaceX「Starmind」轨道数据中心星座，最多 100 万颗卫星",
+        "en": "FCC approves SpaceX's 'Starmind' orbital data-center constellation of up to 1 million satellites"
+      },
+      "summary": {
+        "zh": "FCC 太空局 11 月 25 日部分批准、部分暂缓（附条件）SpaceX 申请：最多 100 万颗卫星作为在轨数据中心，授权范围为备份/应急测控频段；须在 2033 年 11 月前开始部署，2035 年 11 月前完成 10%，2038 年前 50%，2040 年前全部。亚马逊、Viasat 与美国天文学会曾反对。马斯克回复 FCC 主席 Carr：「这将是美国和世界的重要资产。」这是 SpaceX AI 算力叙事的监管进展，与合并后「AI 基础设施」逻辑相关。",
+        "en": "On 25 November the FCC Space Bureau granted in part and deferred in part, with conditions, SpaceX's application for up to 1 million satellites operating as orbital data centers; the grant covers backup/emergency TT&C spectrum. Deployment must begin by November 2033, with 10% by November 2035, 50% by 2038 and the rest by 2040. Amazon, Viasat and the American Astronomical Society had opposed it. Musk replied to FCC Chairman Carr: 'This will be a great asset to America and the world.' It is regulatory progress for SpaceX's AI-compute story, which is part of the merger's 'AI infrastructure' logic."
+      },
+      "source": "FCC; CNBC; NBC News",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+    },
+    {
+      "date": "2026-11-25",
+      "status": "confirmed",
+      "title": {
+        "zh": "欧盟把讨论特斯拉辅助驾驶（原 FSD）的 TCMV 会议从 12 月 1 日推迟到 12 月 15 日",
+        "en": "EU moves the TCMV meeting on Tesla Assisted Driving (formerly FSD) from 1 December to 15 December"
+      },
+      "summary": {
+        "zh": "欧盟委员会发言人向路透确认，原定 12 月 1 日的机动车技术委员会会议改到 12 月 15 日，未说明原因。此前两次会议讨论过特斯拉文件但未表决；欧盟范围批准需至少 15 个成员国、覆盖 65% 人口，欧盟层面否决会令已有的各国批准失效。雅虎财经把它列为周三 TSLA 下跌的原因之一。",
+        "en": "A European Commission spokesperson confirmed to Reuters that the Technical Committee on Motor Vehicles meeting set for 1 December moves to 15 December, without giving a reason. Tesla's file was discussed at two earlier meetings without a vote; EU-wide approval needs at least 15 member states with 65% of the population, and an EU-level rejection would invalidate existing national approvals. Yahoo Finance cited it as one reason for Wednesday's TSLA drop."
+      },
+      "source": "Reuters via CNBC; Electrek",
+      "url": "https://www.cnbc.com/2026/11/25/eu-postpones-discussion-to-approve-teslas-self-driving-tech.html"
+    },
+    {
+      "date": "2026-11-25",
+      "status": "confirmed",
+      "title": {
+        "zh": "合并稀释担忧下 SPCX 盘中跌破 135 美元 IPO 价后收复，收涨 1.30% 至 127.44 美元；TSLA 收 380.14 美元（-1.18%）",
+        "en": "On merger-dilution worries SPCX trades below its $135 IPO price intraday, then recovers to close +1.30% at $127.44; TSLA closes at $380.14 (-1.18%)"
+      },
+      "summary": {
+        "zh": "周三科技股抛售（雅虎财经称纳指早盘一度跌 4%）中，SPCX 早盘跌约 8%（Benzinga 报 115.52 美元），TSLA 早盘跌近 6%。Gary Black 估算若 SpaceX 以 25% 溢价全股票收购特斯拉，需增发约 52% 股份，并称溢价可能被套利沽空「缩水到零」；Ross Gerber 也警告稀释。随后 FCC 批准 Starmind，SPCX 收于 127.44 美元（+1.30%，日内低 112.93），仍低于 135 美元 IPO 价；TSLA 收 380.14 美元（-1.18%，日内低 357.64）。公司未公布任何交易条款，上述溢价与稀释均为投资人测算。",
+        "en": "In Wednesday's tech sell-off (Yahoo Finance said the Nasdaq was down as much as 4% early), SPCX fell about 8% early (Benzinga: $115.52) and TSLA nearly 6%. Gary Black estimated that a 25%-premium all-stock SpaceX bid for Tesla would require issuing about 52% more shares and said the premium could 'shrivel to zero' as arbitrageurs short SPCX; Ross Gerber also warned of dilution. After the FCC Starmind approval, SPCX closed at $127.44 (+1.30%, day low $112.93), still below its $135 IPO price; TSLA closed at $380.14 (-1.18%, day low $357.64). No deal terms have been published; the premium and dilution figures are investor estimates."
+      },
+      "source": "Yahoo Finance; Benzinga; StockAnalysis",
+      "url": "https://finance.yahoo.com/markets/stocks/article/tesla-and-spacex-stocks-sink-as-merger-concerns-mount-154159372.html"
+    },
+    {
+      "date": "2026-11-24",
+      "status": "confirmed",
+      "title": {
+        "zh": "Seaport Global 首次覆盖 TSLA，目标价 475 美元，估值主要基于 Robotaxi",
+        "en": "Seaport Global initiates TSLA with a $475 target, valuing it mainly on Robotaxi"
+      },
+      "summary": {
+        "zh": "据 Investing.com 与 Benzinga，Seaport 预计 Robotaxi 到明年底年化经常性收入 30–40 亿美元，认为这是唯一能支撑估值的机会，同时认为汽车与能源业务被高估。报告未把 SpaceX 合并作为估值依据（就公开转述而言）。",
+        "en": "Per Investing.com and Benzinga, Seaport expects Robotaxi to reach $3–4 billion of annual recurring revenue by the end of next year and sees it as the only opportunity that justifies the valuation, while calling the auto and energy businesses overvalued. Public summaries do not cite the SpaceX merger as a basis for the target."
+      },
+      "source": "Benzinga; Investing.com",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63614690/this-analyst-sees-4-billion-in-robotaxi-revenue-for-tesla-initiates-coverage-with-25-upside"
+    },
     {
       "date": "2026-11-24",
       "status": "rumor",
