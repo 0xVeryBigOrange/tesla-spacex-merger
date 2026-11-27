@@ -1,11 +1,89 @@
 {
-  "as_of": "2026-11-26",
-  "updated_at": "2026-11-26T09:40:00+08:00",
+  "as_of": "2026-11-27",
+  "updated_at": "2026-11-27T09:40:00+08:00",
   "intro": {
     "zh": "在这次检索范围内，马斯克几乎没有用自己的原创长文在 X 上宣布或详述 Tesla 与 SpaceX 的合并。实质性表态主要出现在 2026-10-20 的 SpaceX 财报电话会和 2026-11-18 的 DealBook 峰会；在 X 上，他多半是转发别人整理的原话。下面按时间从新到旧，列出资料中与合并、或与两家公司业务纽带有关的帖子。时间显示为亚洲/新加坡。",
     "en": "In the posts reviewed for this dossier, Musk barely used an original long post on X to announce or spell out a Tesla–SpaceX merger. The substantive comments were at the SpaceX earnings call on 20 October 2026 and the DealBook Summit on 18 November 2026. On X he mostly reposted other people's transcripts. Below, newest first, are the posts in the dossier that relate to the merger or to business ties between the two companies. Times are shown in Asia/Singapore."
   },
   "posts": [
+    {
+      "date": "2026-11-26T21:24:34.000Z",
+      "url": "https://x.com/elonmusk/status/2126064597039997254",
+      "kind": "reply",
+      "text": {
+        "zh": "@stevenmarkryan 我将每年再向美国所有孩子各捐一股 SpaceX。",
+        "en": "@stevenmarkryan I will be donating another share of SpaceX to all kids in America every year"
+      },
+      "note": {
+        "zh": "把 Trump Account 赠股变成每年一次的个人承诺。股数未披露。",
+        "en": "Turns the Trump Account gift into an annual personal pledge. Share counts not disclosed."
+      }
+    },
+    {
+      "date": "2026-11-26T08:39:36.000Z",
+      "url": "https://x.com/elonmusk/status/2125872083393446092",
+      "kind": "reply",
+      "text": {
+        "zh": "@TSLAFanMtl 没有不可逾越的优势，但至少目前 SpaceX 领先世界其他对手一个数量级，而且差距似乎在扩大。",
+        "en": "@TSLAFanMtl No advantage is insurmountable, but, at least for now, SpaceX is beating the rest of the world by an order of magnitude and that lead appears to be widening"
+      },
+      "note": {
+        "zh": "回复一条关于轨道 AI 算力经济性的帖子，发于 FCC 批准 Starmind 之后。",
+        "en": "Reply to a post on orbital AI economics, after the FCC Starmind approval."
+      }
+    },
+    {
+      "date": "2026-11-26T08:20:13.000Z",
+      "url": "https://x.com/elonmusk/status/2125867208358105441",
+      "kind": "reply",
+      "text": {
+        "zh": "如果 SpaceX 成功让生命成为多行星物种，并利用哪怕百万分之一的太阳能量，它的价值将约为当前全球经济的一百万倍。\n\n这些显然是极其困难的目标，但有路径可以实现。\n\n我建议你们继续持有股票。",
+        "en": "If SpaceX succeeds in making life multiplanetary and harnessing even a millionth of the Sun’s energy, it will be worth about a million times the current global economy.\n\nThese are obviously absurdly difficult goals, but there is a path to achieving them.\n\nI recommend holding on to your shares."
+      },
+      "note": {
+        "zh": "在赠股帖下的自我回复，建议获赠者继续持有 SPCX。未谈合并。",
+        "en": "Self-reply in the share-gift thread telling recipients to hold their SPCX shares. Not about the merger."
+      }
+    },
+    {
+      "date": "2026-11-26T08:12:50.000Z",
+      "url": "https://x.com/elonmusk/status/2125865347802956231",
+      "kind": "reply",
+      "text": {
+        "zh": "@2by32 在数字超级智能方面，SpaceX 连铜牌领奖台都还没站上。这让我难过。😢",
+        "en": "@2by32 SpaceX is not yet even on the podium with a bronze medal when it comes to digital superintelligence. This makes me sad. 😢"
+      },
+      "note": {
+        "zh": "马斯克承认 SpaceX（xAI 已并入）在 AI 竞赛中落后。",
+        "en": "Musk concedes SpaceX (which now houses xAI) trails in the AI race."
+      }
+    },
+    {
+      "date": "2026-11-26T06:01:08.000Z",
+      "url": "https://x.com/elonmusk/status/2125832205301878841",
+      "kind": "reply",
+      "text": {
+        "zh": "SpaceX 的那一股将在下个月转出。\n\n我个人直接给的那一股，将在明年 6 月我的锁定期到期时转出。",
+        "en": "The share from SpaceX will be transferred next month. \n\nThe share directly from me will be transferred when my lockup expires in June next year."
+      },
+      "note": {
+        "zh": "赠股时间表；也说明他的 SPCX 锁定期到 2027 年 6 月。",
+        "en": "Timing of the gift; also confirms his SPCX lockup runs to June 2027."
+      }
+    },
+    {
+      "date": "2026-11-26T03:43:05.000Z",
+      "url": "https://x.com/elonmusk/status/2125797463047258119",
+      "kind": "post",
+      "text": {
+        "zh": "美国每个孩子都会得到两股 SpaceX 股票，一股来自公司，一股来自我个人。",
+        "en": "Every child in America will receive two SpaceX shares, one from the company and one from me personally"
+      },
+      "note": {
+        "zh": "当天点赞最多的帖子（50 万+）。未提合并。",
+        "en": "His most-liked post of the day (500k+ likes). Did not mention the merger."
+      }
+    },
     {
       "date": "2026-11-25T23:26:18.000Z",
       "url": "https://x.com/elonmusk/status/2125732841187315903",

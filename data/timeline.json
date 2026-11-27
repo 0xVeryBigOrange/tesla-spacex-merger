@@ -1,7 +1,21 @@
 {
-  "as_of": "2026-11-26",
-  "updated_at": "2026-11-26T09:40:00+08:00",
+  "as_of": "2026-11-27",
+  "updated_at": "2026-11-27T09:40:00+08:00",
   "items": [
+    {
+      "date": "2026-11-26",
+      "status": "confirmed",
+      "title": {
+        "zh": "马斯克补充赠股细节：SpaceX 那一股下月转出，他个人那一股等明年 6 月锁定期结束；之后每年再给每个美国孩子 1 股",
+        "en": "Musk adds share-gift details: SpaceX's share transfers next month, his personal share after his lockup ends next June, and he will give every American child another share each year"
+      },
+      "summary": {
+        "zh": "马斯克 11 月 26 日在 X 上称「美国每个孩子都会得到两股 SpaceX 股票，一股来自公司，一股来自我个人」，并说明公司那一股下月转出、他个人那一股在明年 6 月锁定期到期后转出；随后又称将每年再向美国所有孩子各捐 1 股 SpaceX。总股数与稀释规模仍未披露。与合并条款无直接关系，但涉及 SPCX 新增股份与马斯克持股，属于市场关注的稀释话题。",
+        "en": "On 26 November Musk posted on X that 'every child in America will receive two SpaceX shares, one from the company and one from me personally', adding that the company's share transfers next month and his personal share when his lockup expires next June; he later said he will donate another SpaceX share to all kids in America every year. Total share counts and dilution remain undisclosed. Not directly tied to merger terms, but it touches new SPCX issuance and Musk's stake, part of the market's dilution debate."
+      },
+      "source": "X posts by @elonmusk",
+      "url": "https://x.com/elonmusk/status/2125797463047258119"
+    },
     {
       "date": "2026-11-25",
       "status": "confirmed",
@@ -57,6 +71,20 @@
       },
       "source": "Yahoo Finance; Benzinga; StockAnalysis",
       "url": "https://finance.yahoo.com/markets/stocks/article/tesla-and-spacex-stocks-sink-as-merger-concerns-mount-154159372.html"
+    },
+    {
+      "date": "2026-11-24",
+      "status": "confirmed",
+      "title": {
+        "zh": "RBC 分析师 Ken Herbert：合并公告可能在 2027 年初，早于此前预期（分析师观点）",
+        "en": "RBC analyst Ken Herbert: a merger announcement could come by early 2027, earlier than previously expected (analyst view)"
+      },
+      "summary": {
+        "zh": "据 Bloomberg Law，RBC 的 Ken Herbert 11 月 24 日表示，特斯拉与 SpaceX 的交易可能在 2027 年初宣布，早于 RBC 原先预期；理由是近期关于合并委员会成员与财务顾问的报道显示谈判在推进，且 SpaceX 第三季度表现与展望让特斯拉股东更愿意接受合并。他认为对 TSLA 内在价值给予溢价或有道理，但投资者反馈显示 TSLA 持有人可能接受没有溢价的合并。这是分析师判断，不是公司确认。",
+        "en": "According to Bloomberg Law, RBC's Ken Herbert said on 24 November that a Tesla-SpaceX deal could be announced by early 2027, earlier than RBC first expected, citing reports of merger-committee appointments and adviser hiring as signs of progress, and SpaceX's strong Q3 and outlook making Tesla holders more receptive. He said a premium to TSLA's intrinsic value could be warranted, but investor feedback suggests TSLA holders might accept a combination without one. This is an analyst view, not a company confirmation."
+      },
+      "source": "Bloomberg Law (RBC Capital Markets)",
+      "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/tesla-spacex-merger-announcement-may-come-in-early-2027-rbc"
     },
     {
       "date": "2026-11-24",
