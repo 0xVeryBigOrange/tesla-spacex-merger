@@ -1,11 +1,24 @@
 {
-  "as_of": "2026-11-27",
-  "updated_at": "2026-11-27T09:40:00+08:00",
+  "as_of": "2026-11-28",
+  "updated_at": "2026-11-28T09:30:00+08:00",
   "intro": {
     "zh": "在这次检索范围内，马斯克几乎没有用自己的原创长文在 X 上宣布或详述 Tesla 与 SpaceX 的合并。实质性表态主要出现在 2026-10-20 的 SpaceX 财报电话会和 2026-11-18 的 DealBook 峰会；在 X 上，他多半是转发别人整理的原话。下面按时间从新到旧，列出资料中与合并、或与两家公司业务纽带有关的帖子。时间显示为亚洲/新加坡。",
     "en": "In the posts reviewed for this dossier, Musk barely used an original long post on X to announce or spell out a Tesla–SpaceX merger. The substantive comments were at the SpaceX earnings call on 20 October 2026 and the DealBook Summit on 18 November 2026. On X he mostly reposted other people's transcripts. Below, newest first, are the posts in the dossier that relate to the merger or to business ties between the two companies. Times are shown in Asia/Singapore."
   },
   "posts": [
+    {
+      "date": "2026-11-27T20:37:35.000Z",
+      "url": "https://x.com/elonmusk/status/2126415158033658224",
+      "kind": "reply",
+      "text": {
+        "zh": "@martianwyrdlord 在那种情景下，SpaceX 的市值会高得多",
+        "en": "@martianwyrdlord In that scenario, SpaceX market cap would be way higher"
+      },
+      "note": {
+        "zh": "回复一位用户关于「到 2042 年 SpaceX 将运营 Starlink、百万颗 Starmind 卫星（约占全球三分之一算力）、载人登月登火」的设想，并同时转发了原帖。谈的是 SpaceX 长期市值，与换股比例的估值之争相关，但没有提到合并本身。",
+        "en": "A reply to a user's scenario that by 2042 SpaceX runs Starlink, a million-satellite Starmind constellation (about a third of global compute) and crewed Moon and Mars missions; he also reposted it. It concerns SpaceX's long-term market value, relevant to the valuation debate behind the exchange ratio, but does not mention the merger itself."
+      }
+    },
     {
       "date": "2026-11-26T21:24:34.000Z",
       "url": "https://x.com/elonmusk/status/2126064597039997254",

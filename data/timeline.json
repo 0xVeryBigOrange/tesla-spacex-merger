@@ -1,7 +1,21 @@
 {
-  "as_of": "2026-11-27",
-  "updated_at": "2026-11-27T09:40:00+08:00",
+  "as_of": "2026-11-28",
+  "updated_at": "2026-11-28T09:30:00+08:00",
   "items": [
+    {
+      "date": "2026-11-27",
+      "status": "confirmed",
+      "title": {
+        "zh": "感恩节后首个交易日：TSLA 涨 5.22% 收于 400 美元，SPCX 涨 4.83%；合并仍无协议与条款",
+        "en": "First session after Thanksgiving: TSLA rises 5.22% to close at $400 and SPCX gains 4.83%; still no merger agreement or terms"
+      },
+      "summary": {
+        "zh": "11 月 27 日（周五，美东 13:00 提前收盘）TSLA 收 400.00 美元（+19.86，+5.22%），区间 384.66–401.18，成交约 2,663 万股；SPCX 收 133.59 美元（+4.83%），重回 135 美元 IPO 价附近。24/7 Wall St.（Yahoo Finance 转载）把 TSLA 的上涨归因于合并预期，CNBC 把 SPCX 上涨归因于科技股反弹和马斯克扩大赠股计划。两家公司没有新的官方声明，换股比例仍未公布；涨幅是市场行情，不代表交易进展。",
+        "en": "On Friday 27 November (early close at 1pm New York), TSLA closed at $400.00 (+$19.86, +5.22%), range $384.66–$401.18, on about 26.6 million shares; SPCX closed at $133.59 (+4.83%), back near its $135 IPO price. 24/7 Wall St. (via Yahoo Finance) tied the TSLA move to merger speculation, while CNBC tied the SPCX gain to a tech rebound and Musk's expanded share gift. Neither company issued a new statement and no exchange ratio has been published; the move is market pricing, not deal progress."
+      },
+      "source": "Yahoo Finance (24/7 Wall St.); CNBC; Yahoo Finance quote history",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-rallies-5-amid-spacex-170416697.html"
+    },
     {
       "date": "2026-11-26",
       "status": "confirmed",
